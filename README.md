@@ -23,8 +23,9 @@ Bot ini dirancang untuk mengotomatiskan klaim reward harian dari **Humanity Prot
 ## Instalasi
 1. **Clone Repository atau Buat Direktori**:
    ```bash
-   mkdir humanity
-   cd humanity
+   git clone https://github.com/airdrop-org/humanity-testne.git
+   cd humanity-testnet
+
 Buat Virtual Environment (opsional, tetapi disarankan):
 bash
 python3 -m venv venv
